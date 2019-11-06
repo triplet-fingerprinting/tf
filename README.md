@@ -177,7 +177,7 @@ N_shot: 5
 The interpretation of the result is also same as the previous experiment.
 Thus, the average accuracy in this case is ~84% Accuracy for 5-Shot Learning
 
-Note: The further guideline for other experiments will be posted soon.
+:information_source: The further guideline for other experiments will be posted soon.
 
 # Questions and comments
 Please, address any questions or comments to the authors of the paper. The main developers of this code are:
