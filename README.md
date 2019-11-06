@@ -1,7 +1,4 @@
-
-## :information_source: The full detial of source code and dataset will be available soon
-
-Triplet Fingerprinting Attack
+# Triplet Fingerprinting Attack
 :warning: experimental - PLEASE BE CAREFUL. Intended for reasearch purposes only.
 
 The source code and dataset are used to demonstrate the Triplet Fingerprinting (TF) model, and reproduce the results of the ACM CCS2019 paper:
