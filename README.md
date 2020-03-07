@@ -3,7 +3,7 @@
 
 The source code and dataset are used to demonstrate the Triplet Fingerprinting (TF) model, and reproduce the results of the ACM CCS2019 paper:
 
-## ACM Reference Formant
+## ACM Reference Format
 ```
 Payap Sirinam, Nate Mathews, Mohammad Saidur Rahman, and Matthew Wright. 2019. 
 Triplet Fingerprinting: More Practical and Portable Website Fingerprinting with N-shot Learning. 
